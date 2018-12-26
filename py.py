@@ -6,4 +6,4 @@ number_grid = [
 	[0]
 ]
 
-print(number_grid[0][0])
+print(number_grid[2][2])
