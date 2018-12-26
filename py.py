@@ -6,4 +6,5 @@ number_grid = [
 	[0]
 ]
 
-print(number_grid[2][2])
+for row in number_grid:
+	print(row)
