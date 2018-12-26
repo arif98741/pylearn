@@ -1,9 +1,13 @@
-#python comments
+#python try-catch exception
+'''
+ try catch actually checks code and run
+ if any error occurs it shows error as exception and also handles it.
+'''
 
-#this is a comments
-'''
- more comments here
- invidual lines of comments
- 
-'''
-print("comments are fun")
+try:
+	
+	number = int(input("Enter a number "))
+	print(number)
+except:
+	print("Invalid Input")	
+
