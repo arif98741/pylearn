@@ -1,16 +1,5 @@
-#python try-catch exception
-'''
- try catch actually checks code and run
- if any error occurs it shows error as exception and also handles it.
-'''
+#python reading a file
 
-try:
-	answer  = 10/0
-	number = int(input("Enter a number"))
-	print(number)
-
-except ZeroDivisionError as err:
-	print(err)
-except ValueError:
-    print("invalid input")
-
+employee_file = open("employees.txt", "r")
+print(employee_file.readline())
+employee_file.close()
