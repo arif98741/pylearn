@@ -1,5 +1,5 @@
 #python reading a file
 
-employee_file = open("employees.txt", "w") #"w means write fully new data in a existing file"
-employee_file.write("\nKelly - Customer Service")
+employee_file = open("index.html", "w") #"w means write fully new data in a existing file"
+employee_file.write("<p>this is a paragraph</p>")
 employee_file.close()
