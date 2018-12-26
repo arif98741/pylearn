@@ -1,6 +1,2 @@
-Joon - Salesman
-Kevin - Manager
-Albert - Guide
-Ariful Islam - PHP Developer
-Teacher - Khayrul Islam
-Teacher - Khayrul Islam
+
+Kelly - Customer Service
